@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Node JS Crash course**
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB, MySQL, React**
+- 🌱 I’m currently learning **NodeJS, Express, MongoDB, MySQL, React, PHP**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Git, GitHub, C|C++, Python**
 
