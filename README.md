@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am a pianist from 12 years xD.**
 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshsingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshsingh99" height="30" width="40" /></a>
