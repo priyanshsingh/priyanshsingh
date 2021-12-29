@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB, MySQL, React, PHP**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Git, GitHub, C|C++, Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Git, GitHub, C|C++, Python, Flask**
 
 - 📫 How to reach me **priyanshsingh248@gmail.com**
 
