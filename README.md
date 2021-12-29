@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a pianist from 12 years xD.**
 
-- 📫 Check out my first deployed **website --> **<a href="https://sayhello123.herokuapp.com/hello">**Say Hello!**</a>
+- 📫 Check out my first deployed **website -->** <a href="https://sayhello123.herokuapp.com/hello">**Say Hello!**</a>
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
 
