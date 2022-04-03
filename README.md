@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Priyansh Singh</h1>
 <h3 align="center">An aspiring MERN Stack Developer | Programmer | Musician & Composer</h3>
 
-- 🔭 I’m currently doing a **Node JS Crash course**
+- 🔭 I’m currently doing a **React.js, Redux and Gatsby** 
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB, MySQL, React, PHP**
 
