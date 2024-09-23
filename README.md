@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priyanshsingh248@gmail.com**
 
-- ⚡ Fun fact **I am a pianist from 12 years xD.**
+- ⚡ Fun fact **I am a pianist from 14 years xD.**
 
 - 📫 Check out my first deployed **website -->** <a href="https://sayhello123.herokuapp.com/hello">**Say Hello!**</a>
 
